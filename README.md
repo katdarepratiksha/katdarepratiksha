@@ -22,7 +22,7 @@ A passionate **Full Stack Developer** and **Python Enthusiast** with a knack for
   - Contributing to data-driven applications.  
 ---
 ### 📫 How to Reach Me  
-- **Email**: [mail to](pratkat2002@gmail.com)  
+- **Email**: [Mail to](pratkat2002@gmail.com)  
 - **LinkedIn**: [My Profile](www.linkedin.com/in/pratikshakatdare)  
 ---
 ### ⚡ Fun Fact  
